@@ -1,5 +1,4 @@
-<h1 align="center" transform:skewY (20deg)> Hello👋 Everyone Piyush Verma</h1>
-<h3 align="center">A software developer enthusiasts from India!</h3>
+<img src="img.gif">
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 - 🌱 I’m currently learning :**MVVM - Android Design Pattern**
