@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on : [https://medium.com/@piyushv528](https://medium.com/@piyushv528)
 
-- 💬 Ask me about : **DSA , JAVA  , ANDROID DEVELOPMENT , KOTLIN, C++ , JAVASCRIPT**
+- 💬 Ask me about : **Web , Javascript  ,  React , Nextjs**
 
 - 📫 How to reach me : **piyushv528@gmail.com**
 
